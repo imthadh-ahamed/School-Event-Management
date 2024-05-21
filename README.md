@@ -71,7 +71,7 @@ npm start
 
 Now, navigate to `localhost:3000` in your browser.
 The Backend API will be running at `localhost:5000`.
-modify a file called .env-sample to .evn in the frontend folder.
+modify a file called .env-sample to .env in the frontend folder.
 Inside it you can see this :
 REACT_APP_BASE_URL = http://localhost:5000
 <br>
